@@ -58,6 +58,10 @@ public class GachaMigaTest {
         public void test13() {
             assertEquals("13", GachaMiga.convert(13));
         }
+        @Test
+        public void test14() {
+            assertEquals("14", GachaMiga.convert(14));
+        }
 
 
 
