@@ -18,6 +18,10 @@ public class GachaMigaTest {
         public void test3() {
             assertEquals("Gacha", GachaMiga.convert(3));
         }
+        @Test
+        public void test4() {
+            assertEquals("4", GachaMiga.convert(4));
+        }
 
 
 
